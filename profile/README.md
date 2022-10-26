@@ -1,18 +1,22 @@
 ## 关于咕咕镇Wiki组
-我们是网页游戏《咕咕镇》的非官方Wiki《咕咕镇Wiki》的创始者。
+我们是网页游戏《咕咕镇》的非官方Wiki《咕咕镇Wiki》的维护团队。
 
-【Pinned】的储存库是我们咕咕镇Wiki组的主要成果：   
-1. 咕咕镇Wiki   
-2. 咕咕镇非官方反代
+【Pinned】的储存库是咕咕镇Wiki组的主要成果。   
 
 ## 关于咕咕镇Wiki
 【[通用线路](https://gu.inari.site/Wiki)】   【[Github线路](https://gugutown.github.io/Wiki)】   【[储存库](https://github.com/GuguTown/Wiki)】
 
 如果Wiki内容有什么不正确的地方，欢迎提交PR，或申请成为咕咕镇Wiki组成员来更好地编辑Wiki页面！
+
+## 关于咕咕镇非官方反代
+咕咕镇非官方反代，集成了各种实用脚本。
+
+要使用反代【[演示地址](https://momo.inari.site)】，请在【[此处](https://kf.inari.site)】或【[此处](https://mkf.inari.site)】登录通用游戏账号，然后点击页面的【咕咕镇】即可。
+
+
+
+
 <!--
-
-
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
