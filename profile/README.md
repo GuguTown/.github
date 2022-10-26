@@ -11,7 +11,7 @@
 ## 关于咕咕镇非官方反代
 咕咕镇非官方反代，集成了各种实用脚本。
 
-要使用反代【[演示地址](https://momo.inari.site)】，请在【[此处](https://kf.inari.site)】或【[此处](https://mkf.inari.site)】登录互通游戏账号，然后点击页面的【咕咕镇】即可。
+要使用反代【[演示地址](https://momo.inari.site)】，请在【[此处](https://kf.inari.site)】或【[此处](https://mkf.inari.site)】登录游戏的账户中心，然后点击页面的【咕咕镇】即可。
 
 
 
