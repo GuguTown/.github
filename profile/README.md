@@ -6,6 +6,8 @@
 2. 咕咕镇非官方反代
 
 ## 关于咕咕镇Wiki
+【[通用线路](https://gu.inari.site/Wiki)】   【[Github线路](https://gugutown.github.io/Wiki)】   【[储存库](https://github.com/GuguTown/Wiki)】
+
 如果Wiki内容有什么不正确的地方，欢迎提交PR，或申请成为咕咕镇Wiki组成员来更好地编辑Wiki页面！
 <!--
 
