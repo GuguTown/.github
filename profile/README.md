@@ -9,7 +9,7 @@
 如果Wiki内容有什么不正确的地方，欢迎提交PR，或申请成为咕咕镇Wiki组成员来更好地编辑Wiki页面！
 
 ## 关于咕咕镇非官方反代
-【[储存库](https://github.com/GuguTown/Proxy)】 咕咕镇非官方反代部署教程，集成了各种实用脚本。
+咕咕镇非官方反代部署教程，集成了各种实用脚本。 【[储存库](https://github.com/GuguTown/Proxy)】 
 
 要使用反代【[演示地址](https://momo.inari.site)】，请在【[此处](https://kf.inari.site)】或【[此处](https://mkf.inari.site)】登录游戏的账户中心，然后点击页面的【咕咕镇】即可。
 
